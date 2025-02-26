@@ -1,0 +1,6 @@
+train: ../dataset/all_folds/fold4/train/images
+val: ../dataset/all_folds/fold4/valid/images
+
+
+nc: 2
+names: ['left normal', 'right normal']
