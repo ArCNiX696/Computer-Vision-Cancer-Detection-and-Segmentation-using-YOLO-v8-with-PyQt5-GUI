@@ -27,13 +27,6 @@ For a detailed understanding of the project, please refer to the PDF file:
 
 ---
 
-## 📥 **Cloning the Repository**
-```bash
-git clone https://github.com/ArCNiX696/Cancer-Detection-and-Segmentation-using-YOLO-v8-with-PyQt5-GUI.git
-cd Cancer-Detection-and-Segmentation-using-YOLO-v8-with-PyQt5-GUI
-
----
-
 ## 🖼️ **Project Visualizations**
 
 ### 🪟 **Main Interface View**
@@ -57,4 +50,12 @@ cd Cancer-Detection-and-Segmentation-using-YOLO-v8-with-PyQt5-GUI
 ### 🔍 **Detection Results View**
 ![Detection Results View](assets/DETECTION%20VIEW%20IMAGE.png)
 *The YOLO v8 detection results showing identified cancer regions with confidence scores.*
+
+---
+
+## 📥 **Cloning the Repository**
+```bash
+git clone https://github.com/ArCNiX696/Cancer-Detection-and-Segmentation-using-YOLO-v8-with-PyQt5-GUI.git
+cd Cancer-Detection-and-Segmentation-using-YOLO-v8-with-PyQt5-GUI
+
 
